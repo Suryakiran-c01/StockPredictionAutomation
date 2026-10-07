@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment/secrets
+.env
+
+# Generated outputs
+output/
+
+# Optional: generated chart
+# output/stock_chart.png
